@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahitha Avula</h1>
 <h3 align="center">Backfire yourself on learning rather than spying on somebody</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
+<img align="right" alt="coding" width="400" src="https://www.creativefabrica.com/wp-content/uploads/2020/12/09/1607500149/Girl-coder-580x386.jpg"
 
 
 🔭 I’m currently **pursuing masters of branch Computer Science at Northwest Missouri State University**
