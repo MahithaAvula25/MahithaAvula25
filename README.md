@@ -7,6 +7,8 @@
 
 🌱 I’m currently learning **Webapps,Frameworks,Java**
 
+🌱 My interest **Listening music,Explore the nature**
+
 💬 Ask me about **Webapps,Java**
 
  📫 How to reach me **avula.usedu2@gmail.com**
